@@ -12,11 +12,11 @@
         <div class="fll_about">
             <div class="navbar">
                 <div class="navbar_slct">
-                    <a href="home.html" >Home</a>
-                    <a href="profile.html">Profile</a>
-                    <a href="about.html" >About Me</a>
-                    <a href="gallery.html" >Gallery</a>
-                    <a href="contact.html" ><img id="logo" src="Assets/logo.png" alt="MaShu's Shack" width="40px"></a>
+                    <a href="home.php" >Home</a>
+                    <a href="profile.php">Profile</a>
+                    <a href="about.php" >About Me</a>
+                    <a href="gallery.php" >Gallery</a>
+                    <a href="contact.php" ><img id="logo" src="Assets/logo.png" alt="MaShu's Shack" width="40px"></a>
                 </div>
             </div>
             <h1 class="title"> More About Me?</h1>

@@ -66,7 +66,7 @@
     <script>
         // Function to redirect to the main page
         function redirectToMainPage() {
-            window.location.href = "home.html";
+            window.location.href = "home.php";
         }
 
         // Set timeout to redirect after 8 seconds
